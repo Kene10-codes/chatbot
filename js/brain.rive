@@ -1,0 +1,31 @@
+! version = 2.0
+
++ hello
+- hello, may I know your name ?
+
++ hi
+- hi, what is your name ?
+
++ hey
+- hey, what is your name ?
+
++ xup
+- hi, what is your name ?
+
++ my name * 
+- nice to meet you <star>
+- it is a pleasure meeting you <star>
+
++ thank you
+- you are welcome
+- welcome
+- the please is mine
+- no problem
+
+
++ * 
+- sorry, I did not get what you said
+- i am sorry but I cannot understand you
+- i did not get you
+- sorry please can you rephrase what you mean
+- pardon
